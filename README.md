@@ -6,7 +6,7 @@ Implementation of RBF neural network trained using Evolutionary strategy as gene
 
 #### Architecture
 RBF neural netowork contains three layer using RBF function as activation function for hidden layer.
-A 3 layer neural network with linear activation function can just classify a linearly separable data points but RBF neural network can classify non-linear seoarable data.
+A 3 layer neural network with linear activation function can just classify a linearly separable data points but RBF neural network can classify non-linear separable data.
 ![rbf architecture](https://github.com/aliizadi/Evolving-RBF-Neural-Network/blob/master/media/1.png)
 
 
