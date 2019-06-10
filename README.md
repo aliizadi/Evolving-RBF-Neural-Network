@@ -1,6 +1,6 @@
 # Evolving RBF Neural Network
 
-Implementation of RBF neural network trained using Evolutionary strategy as genetic algorithms for two regression and multi label classification. This is final project of computaional intelligence course under supervision of [Dr.Mohammad Mehdi Ebadzadeh](https://ceit.aut.ac.ir/autcms/people/verticalPagesAjax/professorHomePage.htm?url=ebadzadeh&depurl=computer-engineering&lang=en&cid=3967751)
+Implementation of RBF neural network trained using Evolutionary strategy as genetic algorithms for two regression and multi label classification tasks. This is final project of computaional intelligence course under supervision of [Dr.Mohammad Mehdi Ebadzadeh](https://ceit.aut.ac.ir/autcms/people/verticalPagesAjax/professorHomePage.htm?url=ebadzadeh&depurl=computer-engineering&lang=en&cid=3967751)
 
 ## RBF Neural Network
 
